@@ -23,5 +23,5 @@ SQLite
 * sqlite-jdbc-3.8.7.jar
 
 **JMF**
-*jmf.jar*
-*fmj.jar*
+* jmf.jar
+* fmj.jar
