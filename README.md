@@ -1,7 +1,8 @@
 # KTVSystem
-KTV在线点歌系统<br>
+简单的KTV在线点歌系统<br>
 系统由双服务端和双客户端组成<br>
 实现KTV的在线点歌，更新曲库和断线重连等主要功能<br>
+目前音频只支持wav格式<br>
 
 ## 数据库
 SQLite
@@ -20,3 +21,7 @@ SQLite
 
 **SQLite-JDBC**
 * sqlite-jdbc-3.8.7.jar
+
+**JMF**
+*jmf.jar*
+*fmj.jar*
